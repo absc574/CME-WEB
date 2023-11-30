@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01463a83.css",
+    "main.js": "/static/js/main.d26215c7.js",
+    "static/js/787.9a63b82f.chunk.js": "/static/js/787.9a63b82f.chunk.js",
+    "static/media/MATLALA .mp4": "/static/media/MATLALA .e7bb202eb68fc2b477fe.mp4",
+    "static/media/Site-banner.mp4": "/static/media/Site-banner.9c94570cca8d2b1724f0.mp4",
+    "static/media/site_bg.gif": "/static/media/site_bg.5a1446bd6a3115c16096.gif",
+    "static/media/mg_axzi.JPG": "/static/media/mg_axzi.9fb73dc77baf80fc07a2.JPG",
+    "static/media/img4.jpg": "/static/media/img4.278225edcf23b79c81cf.jpg",
+    "static/media/matlala-icon.png": "/static/media/matlala-icon.4227ebc822c5070c10a2.png",
+    "static/media/default_vd_img.jfif": "/static/media/default_vd_img.761d17168c8492c37425.jfif",
+    "index.html": "/index.html",
+    "main.01463a83.css.map": "/static/css/main.01463a83.css.map",
+    "main.d26215c7.js.map": "/static/js/main.d26215c7.js.map",
+    "787.9a63b82f.chunk.js.map": "/static/js/787.9a63b82f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01463a83.css",
+    "static/js/main.d26215c7.js"
+  ]
+}
